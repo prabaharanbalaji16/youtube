@@ -1,10 +1,10 @@
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyBQ_kBGk-EqUo9RJdkEnDzU6RJzICSEF64",
-    authDomain: "fir-cb5bd.firebaseapp.com",
-    projectId: "fir-cb5bd",
-    storageBucket: "fir-cb5bd.appspot.com",
-    messagingSenderId: "914088812020",
-    appId: "1:914088812020:web:5e8be3bb21bbc1c9776da1",
-    measurementId: "G-Y7NMJBE9S4"
-  };
+  apiKey: "AIzaSyBsjPoJrp4RueBBOeR_pJeuD-sehTMCxrk",
+  authDomain: "utubecloning.firebaseapp.com",
+  projectId: "utubecloning",
+  storageBucket: "utubecloning.appspot.com",
+  messagingSenderId: "158802327757",
+  appId: "1:158802327757:web:7d817b0a17686dc4fc1184",
+  measurementId: "G-06810VQD3G"
+};

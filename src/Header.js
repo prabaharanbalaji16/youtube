@@ -22,7 +22,7 @@ function Header() {
                 </Link>
             </div>
             <div className="header__input">
-                <input onChange={(e)=>setSearch(e.target.value)} value={search} type="text" />
+                <input placeholder="Search" onChange={(e)=>setSearch(e.target.value)} value={search} type="text" />
                 <Link to={`/search/${search}`}>
                     <SearchIcon className="header__inputButton" />
                 </Link>
@@ -31,7 +31,7 @@ function Header() {
                 <VideoCallSharpIcon className="header__icons" />
                 <Apps className="header__icons" />
                 <Notifications className="header__icons" />
-                <Avatar src="" alt="" className="header__icons" />
+                <Avatar src="https://i0.wp.com/media.ghgossip.com/wp-content/uploads/2021/02/05170404/Rowan_Atkinson.jpg?fit=885%2C516&ssl=1" alt="" className="header__icons" />
             </div>
         </div>
     )
